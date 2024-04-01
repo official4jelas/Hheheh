@@ -36,27 +36,27 @@ global.sdc = 'https://discord.com/Zyko' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
 /*============== PAYMENT ==============*/
-global.pdana = '082220427314' //pulsa1
-global.ppulsa = '082220427314' //pulsa2
+global.pdana = '085766450735' //pulsa1
+global.ppulsa = '085766450735' //pulsa2
 global.povo = '-' //ovo
 global.gopay = '-' //gopay
-global.dana = '082220427314' //dana
+global.dana = '085766450735' //dana
 global.sid = 'https://s.id/ReyzShop' //s.id
 global.psaweria = 'https://saweria.com/ArilXd' //saweria
 
 /*============== NOMOR ==============*/
 global.nomorwa = '6282220427314' //whatsapp
-global.nomorbot = '6282220250401' //nomor Bot
-global.nomorown = '6282220427314' //nomor Owner
+global.nomorbot = '' //nomor Bot
+global.nomorown = '6285766450735' //nomor Owner
 global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ' //nama Owner
+global.nameown = 'ga tau' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282220427314', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
+  ['6285766450735', 'GAK TAU', true] //creator/owner
 ] //put your number here
-global.mods = [] //moderator
-global.prems = [] //prem bukan disini
+global.mods = ['6285766450735'] //moderator
+global.prems = ['6285766450735'] //prem bukan disini
 
 /*============== CPANEL ==============*/
 global.domain = 'https://xxxxx' //domain
